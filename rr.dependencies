@@ -27,6 +27,6 @@
     "remote":      "github",
     "repository":  "LMMFHHO/XiaomiCustom",
     "target_path": "vendor/XiaomiCustom",
-    "branch":      "official"
+    "branch":      "arnova"
   }
 ]
