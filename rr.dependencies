@@ -34,5 +34,5 @@
     "repository":  "adekmaulana/aarch64-linux-android",
     "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android",
     "branch":      "snapshot-7.3-2018.06"
-  },
+  }
 ]
