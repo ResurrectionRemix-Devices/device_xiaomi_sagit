@@ -7,9 +7,9 @@
   },
   {
     "remote":      "github",
-    "repository":  "wight554/chiron",
+    "repository":  "LMMFHHO/eucalyptus_kernel_xiaomi_msm8998",
     "target_path": "kernel/xiaomi/msm8998",
-    "branch":      "o2"
+    "branch":      "treble"
   },
   {
     "remote":      "github",
