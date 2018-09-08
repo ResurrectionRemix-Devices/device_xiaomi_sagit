@@ -1,15 +1,15 @@
 [
   {
     "remote":      "github",
-    "repository":  "LMMFHHO/device_xiaomi_msm8998-common",
+    "repository":  "xiaomi-msm8998/device_xiaomi_msm8998-common",
     "target_path": "device/xiaomi/msm8998-common",
-    "branch":      "eas-demon"
+    "branch":      "oreo"
   },
   {
     "remote":      "github",
-    "repository":  "LMMFHHO/eucalyptus_kernel_xiaomi_msm8998",
+    "repository":  "Demon000/kernel_xiaomi_msm8998",
     "target_path": "kernel/xiaomi/msm8998",
-    "branch":      "treble"
+    "branch":      "rice"
   },
   {
     "remote":      "github",
