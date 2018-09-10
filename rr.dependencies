@@ -7,9 +7,9 @@
   },
   {
     "remote":      "github",
-    "repository":  "Demon000/kernel_xiaomi_msm8998",
+    "repository":  "xiaomi-msm8998/kernel_xiaomi_msm8998",
     "target_path": "kernel/xiaomi/msm8998",
-    "branch":      "rice"
+    "branch":      "peppermint"
   },
   {
     "remote":      "github",
