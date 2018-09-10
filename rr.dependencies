@@ -7,9 +7,9 @@
   },
   {
     "remote":      "github",
-    "repository":  "xiaomi-msm8998/kernel_xiaomi_msm8998",
+    "repository":  "ArianK16a/eucalyptus_kernel_xiaomi_msm8998",
     "target_path": "kernel/xiaomi/msm8998",
-    "branch":      "peppermint"
+    "branch":      "treble"
   },
   {
     "remote":      "github",
@@ -25,7 +25,7 @@
   },
   {
     "remote":      "github",
-    "repository":  "LMMFHHO/XiaomiCustom",
+    "repository":  "ArianK16a/XiaomiCustom",
     "target_path": "vendor/XiaomiCustom",
     "branch":      "oreo-1"
   },
