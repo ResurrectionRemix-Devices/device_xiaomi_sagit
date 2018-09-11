@@ -7,9 +7,9 @@
   },
   {
     "remote":      "github",
-    "repository":  "ArianK16a/eucalyptus_kernel_xiaomi_msm8998",
+    "repository":  "ArianK16a/kernel_xiaomi_msm8998",
     "target_path": "kernel/xiaomi/msm8998",
-    "branch":      "treble"
+    "branch":      "o2"
   },
   {
     "remote":      "github",
