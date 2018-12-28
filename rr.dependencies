@@ -1,6 +1,30 @@
 [
   {
     "remote": "github",
+    "repository": "xiaomi-msm8998/device_xiaomi_msm8998-common",
+    "target_path": "device/xiaomi/msm8998-common",
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-msm8998/kernel_xiaomi_msm8998",
+    "target_path": "kernel/xiaomi/msm8998",
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "xiaomi-msm8998/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
     "repository": "ArianK16a/device_xiaomi_miuicamera",
     "target_path": "device/xiaomi/miuicamera",
     "branch": "master"
