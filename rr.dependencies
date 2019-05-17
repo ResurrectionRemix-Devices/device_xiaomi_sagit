@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "ArianK16a/device_xiaomi_miuicamera",
+    "target_path": "device/xiaomi/miuicamera",
+    "branch": "master"
+  }
+]
